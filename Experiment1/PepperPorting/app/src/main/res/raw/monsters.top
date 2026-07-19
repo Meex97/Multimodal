@@ -1,0 +1,14 @@
+topic: ~monsters()
+concept:(color) [red blue yellow green orange purple pink brown black grey white]
+
+u:(Show me _~color monsters)
+$color=$1
+^execute(clearScreen)
+Let me see.
+^execute(showMonsters, $color)
+Here they are!
+
+
+u:(_*)
+$1
+^execute(talk, $1)
