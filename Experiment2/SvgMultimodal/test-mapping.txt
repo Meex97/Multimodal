@@ -1,0 +1,21 @@
+intro1 - 1
+intro2 - 2
+
+senza, poche - 1
+senza, molte - 2
+con, poche - 3
+con, molte - 4 x (1,1)
+
+fine - 5
+contemporaneamente - 6 x (2)
+sintattica - 7
+
+pausa - 7 x (1)
+no pausa - 1
+
+multicolor - 2 x (1)
+monocolor - 1
+
+
+meno evidenti - 4 x (1)
+più evidenti - 3
